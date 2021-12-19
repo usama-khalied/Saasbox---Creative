@@ -98,5 +98,9 @@ margin: 0 2rem;
  .container-2 {
      width: 100%;
      height: 90vh;
-     
+     background: url(images/6075652d08860668e12bf26e_Mask\ Group-6-min.png);
+     background-position: center;
+     background-size: cover;
+     background-repeat: no-repeat;
+     margin: 1rem 0 2rem;
  }
